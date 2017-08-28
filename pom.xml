@@ -6,7 +6,7 @@
   <groupId>org.cybersapien</groupId>
   <artifactId>camel-geode</artifactId>
   <packaging>jar</packaging>
-  <version>1.0-add_producer-SNAPSHOT</version>
+  <version>1.0.0</version>
 
   <name>Camel Geode Component</name>
 
